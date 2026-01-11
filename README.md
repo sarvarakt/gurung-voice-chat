@@ -8,7 +8,7 @@ O'zbek tilidagi tasodifiy audio muloqot platformasi. Foydalanuvchilar bir-birlar
 * **Oddiy interfeys:** Foydalanish uchun qulay va tushunarli dizayn.
 
 ## 🛠️ Texnologiyalar
-* **Frontend:** JavaScript (yoki React/Vue agar ishlatsangiz)
+* **Frontend:** React JS
 * **Backend:** Node.js, Express
 * **Real-time:** WebRTC / Socket.io
 
